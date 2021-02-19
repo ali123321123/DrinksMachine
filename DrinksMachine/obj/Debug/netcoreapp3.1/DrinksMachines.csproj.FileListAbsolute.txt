@@ -1,0 +1,3 @@
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachines.AssemblyInfoInputs.cache
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachines.AssemblyInfo.cs
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachines.csproj.CoreCompileInputs.cache

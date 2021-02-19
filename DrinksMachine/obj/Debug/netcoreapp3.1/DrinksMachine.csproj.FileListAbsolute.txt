@@ -1,0 +1,13 @@
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.csprojAssemblyReference.cache
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.AssemblyInfoInputs.cache
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.AssemblyInfo.cs
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.csproj.CoreCompileInputs.cache
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.exe
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.deps.json
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.runtimeconfig.json
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.runtimeconfig.dev.json
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.dll
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\bin\Debug\netcoreapp3.1\DrinksMachine.pdb
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.dll
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.pdb
+C:\Users\azedan\Desktop\Experis Academy\Noroff\Backend\demos\DrinksMachine\DrinksMachine\DrinksMachine\obj\Debug\netcoreapp3.1\DrinksMachine.genruntimeconfig.cache
